@@ -1,0 +1,25 @@
+{
+  "name": "pe-rich-marker",
+  "version": "1.0-custom-a",
+  "homepage": "https://github.com/rubenclopez/pe-rich-marker-directive.git",
+  "authors": [
+    "PublicEngines <ruben.lopez@publicengines.com>"
+  ],
+  "description": "AngularJS directive that wraps js-rich-marker",
+  "main": "src/pe-rich-marker.js",
+  "keywords": [
+    "rich",
+    "marker",
+    "richmarker",
+    "directive",
+    "maps"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
